@@ -1,9 +1,4 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
 - degree: Master of Science in Electrical Engineering
   uni: Clarkson University
   year: 2004 &mdash; 2006
@@ -11,4 +6,3 @@
   summary: Research included Design and Development of Algorithms in Image Processing and Digital Signal Processing
            Thesis Title: 
           * Impact of Fingerprint Image Quality on Performance of a matcher
- 
