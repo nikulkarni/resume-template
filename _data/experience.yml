@@ -1,19 +1,17 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
-
+- company: PayPal Inc, San Jose, CA
+  position: Staff Software Engineer
+  duration: Dec, 2012 &mdash; Present
+  summary: Worked with different teams in last 5+ years including <i>store locator, store ingestion, in-store checkins, paypal here, mobile wallet orchestration</i> etc. restful apis which powered consumer mobile application and <i>core payments</i> managing a variety of API platforms which are backbones for payments. <p><b>Core Payments</b>- Most critical team at PayPal, driving >80% of traffic<br><b>Technologies</b>- Java 8, RxJava, protobufs, Spring, Mockito, Maven, Jenkins</br><i>Role- Staff Software Developer</i></br></p><ul class="resume-item-list"><li>Lead engineer contribute design and development of new features, bug fixes, unit, integration and functional testing; deployment and monitoring</li><li>Extensively contribute to replatforming architecture</li><li>Worked on payment orchestration APIs which serves 80% of PayPals traffic. Market places like eBay, Ali Express etc. Credit Card payments, Express checkouts, website payments</li><li>Member of Trusted committers in Payments Organization, contribute extensively to code reviews</li><li>Developed an automation framework for Payments APIs based on builder pattern for ease of writing functional tests</li></ul> <p><b>Consumer Applications </b>- APIs behind native mobile application<br><b>Technologies</b>- spring, webdriver-java, cucumber-java, JUnit, TestNg, express.js, webdriverjs, cucumberjs, grunt, npm, mocha, chai, maven, jenkins, sauce-labs <br><i>Role- Staff Software Developer in Test</i></br></p><ul class="resume-item-list"><li>Responsible for developing automation framework for both UI and APIs for a suite of Demand generation products</li><li>Introduced BDD and brought development, qa and product closer together</li><li>Helped develop "save to wallet" application using kraken.js, dust; wrote functional tests using nemo.js (webdriverjs, confit, mocha, grunt, npm)</li><li>Developed an inhouse web application using express.js, dust.js, bootstrap for product and technical representive teams to triage live issues faster</li><li> Improved test automation code quality, encouraged and trained developers to contribute to writing tests</li></ul>
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Epsilon, Boston, MA
+  position: Manager, Application Development
+  duration:  Oct, 2011 &mdash; Dec, 2012
+  summary: First Software Developer in Test for Epsilon's Digital Solutions group. Grew the team and was <i>promoted</i> in a year to be a hands on manager where I managed a team of software developers and software developers in test. <ul class="resume-item-list"><li>Built test automation frameworks for both UI (Selenium/WebDriver) and web services (Spring RestTemplate) from scratch</li><li>Developed continuous integration pipelines for continuous delivery</li><li>Promoted testing in isolation and successfully found critical issues early in development cycle</li><li>Promoted Behavior Driven Development using Cucumber</li><li>Built a team of 15 software development engineers in test from ground up</li><li>Managed a small team of .Net and Java Developers building in house reporting portals</li></ul>
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: EMC, White Plains, NY
+  position: Software Engineer II
+  duration:   Dec, 2006  &mdash; April, 2010
+  summary: Software Developer in Test for EMC Smarts. Used QTP, VBScripts, Perl and Java to automate Network Management Software included both desktop and web applications
