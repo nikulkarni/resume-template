@@ -5,11 +5,11 @@
   role: Co-author & Primary Developer
   duration: 2014 &mdash; Present
   # url: "#"
-  description: <a href="http://nemo.js.org/">Nemo.js</a> is a node.js solution for running selenium-webdriver tests. Works with any modern test framework like mocha, cucumberjs, jasmine etc. Excellent configuration management using <a href=https://github.com/krakenjs/confit>confit</a> and an <a href=http://nemo.js.org/pages/ecosystem.html>army of nemo-plugins</a>. I also developed number of nemo plugins as part of the ecosystem.
+  description: <a href="http://nemo.js.org/" target="_blank">Nemo.js</a> is a node.js solution for running selenium-webdriver tests. Works with any modern test framework like mocha, cucumberjs, jasmine etc. Excellent configuration management using <a href=https://github.com/krakenjs/confit target="_blank">confit</a> and an <a href=http://nemo.js.org/pages/ecosystem.html target="_blank">army of nemo-plugins</a>. I also developed number of nemo plugins as part of the ecosystem.
 
 #Springfield Donut Eater's User Group
 - project: webdriver-accessibility
   role: Author & Primary Developer
   duration: 2013 &mdash; Present
   # url: "#"
-  description: <a href="https://github.com/nikulkarni/webdriver-accessibility">webdriver-accessibility</a> is a Java library to run accessibility audits with Selenium WebDriver. A node.js version of it is also written and available as <a href="https://github.com/nikulkarni/webdriverjs-accessibility">webdriverjs-accessibility</a>
+  description: <a href="https://github.com/nikulkarni/webdriver-accessibility" target="_blank">webdriver-accessibility</a> is a Java library to run accessibility audits with Selenium WebDriver. A node.js version of it is also written and available as <a href="https://github.com/nikulkarni/webdriverjs-accessibility" target="_blank">webdriverjs-accessibility</a>

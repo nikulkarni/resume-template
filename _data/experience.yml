@@ -7,11 +7,11 @@
 # Windmill Crank Operator
 - company: Epsilon, Boston, MA
   position: Manager, Application Development
-  duration:  Oct, 2011 &mdash; Dec, 2012
-  summary: First Software Developer in Test for Epsilon's Digital Solutions group. Grew the team and was <i>promoted</i> in a year to be a hands on manager where I managed a team of software developers and software developers in test. <ul class="resume-item-list"><li>Built test automation frameworks for both UI (Selenium/WebDriver) and web services (Spring RestTemplate) from scratch</li><li>Developed continuous integration pipelines for continuous delivery</li><li>Promoted testing in isolation and successfully found critical issues early in development cycle</li><li>Promoted Behavior Driven Development using Cucumber</li><li>Built a team of 15 software development engineers in test from ground up</li><li>Managed a small team of .Net and Java Developers building in house reporting portals</li></ul>
+  duration:  April, 2010 &mdash; Dec, 2012
+  summary: First Software Developer in Test for Epsilon's Digital Solutions group. Grew the team and was <i>promoted</i> in a year to be a hands on manager. I managed a team of software developers and software developers in test. <ul class="resume-item-list"><li>Built test automation frameworks for both UI (Selenium/WebDriver) and web services (Spring RestTemplate) from scratch</li><li>Developed continuous integration pipelines for continuous delivery</li><li>Promoted testing in isolation and successfully found critical issues early in development cycle</li><li>Promoted Behavior Driven Development using Cucumber</li><li>Built a team of 15 software development engineers in test from ground up</li><li>Managed a small team of .Net and Java Developers building in house reporting portals</li></ul>
 
 # Front Desk Attendant
 - company: EMC, White Plains, NY
   position: Software Engineer II
-  duration:   Dec, 2006  &mdash; April, 2010
+  duration:   Dec, 2006  &mdash; March, 2010
   summary: Software Developer in Test for EMC Smarts. Used QTP, VBScripts, Perl and Java to automate Network Management Software included both desktop and web applications
